@@ -1,6 +1,6 @@
 # 项目学习：把阅读变成一次行动
 
-这是从姜胡说专栏归纳的方法技能，来源与改写记录见 [来源说明](references/sources.md)。
+本技能将既有学习材料重写为独立方法笔记，不是原文复刻。说明、步骤与边界均可在本仓库内阅读：[方法笔记](references/methods.md)。
 
 ## 什么时候用
 
@@ -34,13 +34,13 @@ $lany-project-learning-skill
 
 [查看完整技能定义](SKILL.md)。
 
-## 2026 年星球增强
+## 补充用法
 
 增加闭卷重建与自己的例子/反例检查，定位真正缺失的理解环节。用户只要摘要时不会强迫做练习。
 
 调用示例：`$lany-project-learning-skill 这是我读后写的解释和原文，请找第一个逻辑缺口，给一个迁移练习，不替我声称已经掌握。`
 
-[增补来源及取舍](references/zsxq-2026.md)。
+[阅读方法笔记](references/methods.md)。
 
 ## 独立仓库与安装
 
@@ -55,4 +55,4 @@ git clone https://github.com/LanyXiaosheng/lany-project-learning-skill.git ~/.co
 
 已设置 `CODEX_HOME` 时，将目标改为该目录下的 `skills/lany-project-learning-skill`。已有同名技能时先比较或备份，不覆盖。客户端发现技能后，使用 `$lany-project-learning-skill` 调用。
 
-初次拆分的提交历史继续保留；当前工作版本已纳入2026年知识星球增强方法。
+当前版本附自包含方法笔记，无需访问外部原文；现有仓库提交历史保留。

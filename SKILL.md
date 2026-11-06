@@ -78,6 +78,4 @@ description: 围绕正在做的项目或明确能力缺口，阅读所给书籍�
 ## 补充材料
 
 使用范例见 [README.md](README.md)。
-需核对来源或三块法的改写时读 [references/sources.md](references/sources.md)。
-
-需要追溯本次新增方法时读 [2026 年星球增补](references/zsxq-2026.md)。
+需要学习步骤、理解自测与迁移示例时读 [方法笔记](references/methods.md)。
