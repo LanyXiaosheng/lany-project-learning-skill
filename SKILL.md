@@ -79,3 +79,5 @@ description: 围绕正在做的项目或明确能力缺口，阅读所给书籍�
 
 使用范例见 [README.md](README.md)。
 需要学习步骤、理解自测与迁移示例时读 [方法笔记](references/methods.md)。
+
+需要可填写模板、逐步操作、完整虚构案例及验收清单时，按需读取[操作手册](references/workbook.md)。

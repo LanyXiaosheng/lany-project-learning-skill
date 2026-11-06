@@ -56,3 +56,7 @@ git clone https://github.com/LanyXiaosheng/lany-project-learning-skill.git ~/.co
 已设置 `CODEX_HOME` 时，将目标改为该目录下的 `skills/lany-project-learning-skill`。已有同名技能时先比较或备份，不覆盖。客户端发现技能后，使用 `$lany-project-learning-skill` 调用。
 
 当前版本附自包含方法笔记，无需访问外部原文；现有仓库提交历史保留。
+
+## 操作手册
+
+[本地操作手册](references/workbook.md)包含可填写模板、完整虚构案例、反例与验收步骤，可与方法笔记配合使用，无需访问原文网站。
